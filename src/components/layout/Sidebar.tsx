@@ -60,7 +60,7 @@ export function Sidebar({ currentView, onViewChange, isOpen, onClose }: SidebarP
             </div>
             {!isCollapsed && (
               <div className="flex flex-col animate-fade-in">
-                <span className="font-display font-bold text-lg">POA</span>
+                <span className="font-display font-bold text-lg">POA 2026</span>
                 <span className="text-xs text-sidebar-foreground/70">Plan Operativo Anual</span>
               </div>
             )}
